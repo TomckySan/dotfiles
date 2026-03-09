@@ -1,6 +1,6 @@
 [user]
-    name = Tomoka Baba
-    email = tomoka.baba@route06.co.jp
+    name = tomcky
+    email = cap11c08931@gmail.com
 [alias]
     graph = log --graph --date-order -C -M --pretty=format:\"<%h> %ad [%an] %Cgreen%d%Creset %s\" --all --date=short
 [init]
