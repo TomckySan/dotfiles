@@ -12,6 +12,5 @@ brew "mise"
 brew "tmux"
 cask "azookey"
 cask "coteditor"
-cask "obsidian"
 cask "visual-studio-code"
 ```
